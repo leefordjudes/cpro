@@ -9,7 +9,7 @@ source = "git+https://github.com/leefordjudes/clib#e0b86e6278aaca250d721c090e32f
 
 [[package]]
 name = "cpro"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "clib",
 ]
